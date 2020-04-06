@@ -1,0 +1,149 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidProject\todoProject\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\AndroidProject\todoProject\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\AndroidProject\todoProject\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\AndroidProject\todoProject\app\src\main\AndroidManifest.xml:2:1-30:12
+MERGED from [io.realm:realm-android-library-object-server:6.1.0] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\realm-android-library-object-server-6.1.0.aar\f4789dfb2fa7292e9f4a42c3caa0c33f\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\7cc78c8afae2725d8b4952ae6f98f819\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\d00137058f509d9712438e3fe15119d6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\5888a4f5ef0de72154d63e43aec5139d\AndroidManifest.xml:2:1-11:12
+MERGED from [io.realm:android-adapters:3.0.0] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\android-adapters-3.0.0.aar\0ef46826864cd0bd9b6bd219297f788c\AndroidManifest.xml:2:1-9:12
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.0] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\relinker-1.4.0.aar\c8deaf4b2ea2e041d1813ef3b4ebb758\AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\65673dd01544be9a79227c94553a36e9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\d015535a30b907fff9bca4ee874b7944\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\fef31e0affbf5aa955e7539b86690ab1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\46fb64ebd91b3e0b4212dbee99b5774e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\6ed77245aadf0f770f7dc69c45a8be72\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\844566e53efc8f04ef87362b815fdeb2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\42cfb5d1a182b209310433118a96f3c6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\10cb6d5d29550c7abd8f1c99204353e5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\ef3cbde4ea018a4ed6f08024e68d95db\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f432bb6e5188b4fc99bc15d49e603258\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ddeb1dad6ebc21c0b4cb57b4b1496926\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\ec0471a57834ab97b5b17bef408cb2d5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5b7eaf896c5807a5945da6475c8b0f07\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f9a1c2ccde3aad57066ff5fb6f1dfc47\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\AndroidProject\todoProject\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\AndroidProject\todoProject\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\AndroidProject\todoProject\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from D:\AndroidProject\todoProject\app\src\main\AndroidManifest.xml:3:5-31
+		INJECTED from D:\AndroidProject\todoProject\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProject\todoProject\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\AndroidProject\todoProject\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidProject\todoProject\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from D:\AndroidProject\todoProject\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\AndroidProject\todoProject\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidProject\todoProject\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from D:\AndroidProject\todoProject\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidProject\todoProject\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\AndroidProject\todoProject\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [io.realm:realm-android-library-object-server:6.1.0] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\realm-android-library-object-server-6.1.0.aar\f4789dfb2fa7292e9f4a42c3caa0c33f\AndroidManifest.xml:11:5-67
+MERGED from [io.realm:realm-android-library-object-server:6.1.0] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\realm-android-library-object-server-6.1.0.aar\f4789dfb2fa7292e9f4a42c3caa0c33f\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from D:\AndroidProject\todoProject\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from D:\AndroidProject\todoProject\app\src\main\AndroidManifest.xml:7:5-28:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\5888a4f5ef0de72154d63e43aec5139d\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\5888a4f5ef0de72154d63e43aec5139d\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from D:\AndroidProject\todoProject\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from D:\AndroidProject\todoProject\app\src\main\AndroidManifest.xml:11:9-41
+	android:icon
+		ADDED from D:\AndroidProject\todoProject\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from D:\AndroidProject\todoProject\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from D:\AndroidProject\todoProject\app\src\main\AndroidManifest.xml:13:9-40
+	android:name
+		ADDED from D:\AndroidProject\todoProject\app\src\main\AndroidManifest.xml:8:9-56
+activity#com.example.todo.WelcomeActivity
+ADDED from D:\AndroidProject\todoProject\app\src\main\AndroidManifest.xml:14:9-23:20
+	android:label
+		ADDED from D:\AndroidProject\todoProject\app\src\main\AndroidManifest.xml:16:13-45
+	android:noHistory
+		ADDED from D:\AndroidProject\todoProject\app\src\main\AndroidManifest.xml:17:13-37
+	android:name
+		ADDED from D:\AndroidProject\todoProject\app\src\main\AndroidManifest.xml:15:13-60
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\AndroidProject\todoProject\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from D:\AndroidProject\todoProject\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from D:\AndroidProject\todoProject\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidProject\todoProject\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from D:\AndroidProject\todoProject\app\src\main\AndroidManifest.xml:21:27-74
+activity#com.example.todo.TasksActivity
+ADDED from D:\AndroidProject\todoProject\app\src\main\AndroidManifest.xml:24:9-27:59
+	android:label
+		ADDED from D:\AndroidProject\todoProject\app\src\main\AndroidManifest.xml:26:13-57
+	android:theme
+		ADDED from D:\AndroidProject\todoProject\app\src\main\AndroidManifest.xml:27:13-56
+	android:name
+		ADDED from D:\AndroidProject\todoProject\app\src\main\AndroidManifest.xml:25:13-58
+uses-sdk
+INJECTED from D:\AndroidProject\todoProject\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\AndroidProject\todoProject\app\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidProject\todoProject\app\src\main\AndroidManifest.xml
+MERGED from [io.realm:realm-android-library-object-server:6.1.0] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\realm-android-library-object-server-6.1.0.aar\f4789dfb2fa7292e9f4a42c3caa0c33f\AndroidManifest.xml:6:5-8:41
+MERGED from [io.realm:realm-android-library-object-server:6.1.0] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\realm-android-library-object-server-6.1.0.aar\f4789dfb2fa7292e9f4a42c3caa0c33f\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:design:27.1.1] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\7cc78c8afae2725d8b4952ae6f98f819\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\7cc78c8afae2725d8b4952ae6f98f819\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\d00137058f509d9712438e3fe15119d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\d00137058f509d9712438e3fe15119d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\5888a4f5ef0de72154d63e43aec5139d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\5888a4f5ef0de72154d63e43aec5139d\AndroidManifest.xml:5:5-7:41
+MERGED from [io.realm:android-adapters:3.0.0] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\android-adapters-3.0.0.aar\0ef46826864cd0bd9b6bd219297f788c\AndroidManifest.xml:5:5-7:41
+MERGED from [io.realm:android-adapters:3.0.0] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\android-adapters-3.0.0.aar\0ef46826864cd0bd9b6bd219297f788c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.0] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\relinker-1.4.0.aar\c8deaf4b2ea2e041d1813ef3b4ebb758\AndroidManifest.xml:5:5-43
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.0] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\relinker-1.4.0.aar\c8deaf4b2ea2e041d1813ef3b4ebb758\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\65673dd01544be9a79227c94553a36e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\65673dd01544be9a79227c94553a36e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\d015535a30b907fff9bca4ee874b7944\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\d015535a30b907fff9bca4ee874b7944\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\fef31e0affbf5aa955e7539b86690ab1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\fef31e0affbf5aa955e7539b86690ab1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\46fb64ebd91b3e0b4212dbee99b5774e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\46fb64ebd91b3e0b4212dbee99b5774e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\6ed77245aadf0f770f7dc69c45a8be72\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\6ed77245aadf0f770f7dc69c45a8be72\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\844566e53efc8f04ef87362b815fdeb2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\844566e53efc8f04ef87362b815fdeb2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\42cfb5d1a182b209310433118a96f3c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\42cfb5d1a182b209310433118a96f3c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\10cb6d5d29550c7abd8f1c99204353e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\10cb6d5d29550c7abd8f1c99204353e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\ef3cbde4ea018a4ed6f08024e68d95db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\ef3cbde4ea018a4ed6f08024e68d95db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f432bb6e5188b4fc99bc15d49e603258\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f432bb6e5188b4fc99bc15d49e603258\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ddeb1dad6ebc21c0b4cb57b4b1496926\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ddeb1dad6ebc21c0b4cb57b4b1496926\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\ec0471a57834ab97b5b17bef408cb2d5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\ec0471a57834ab97b5b17bef408cb2d5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5b7eaf896c5807a5945da6475c8b0f07\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5b7eaf896c5807a5945da6475c8b0f07\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f9a1c2ccde3aad57066ff5fb6f1dfc47\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f9a1c2ccde3aad57066ff5fb6f1dfc47\AndroidManifest.xml:20:5-44
+INJECTED from D:\AndroidProject\todoProject\app\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidProject\todoProject\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\AndroidProject\todoProject\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidProject\todoProject\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProject\todoProject\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AndroidProject\todoProject\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidProject\todoProject\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProject\todoProject\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [io.realm:realm-android-library-object-server:6.1.0] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\realm-android-library-object-server-6.1.0.aar\f4789dfb2fa7292e9f4a42c3caa0c33f\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from [io.realm:realm-android-library-object-server:6.1.0] C:\Users\Loli-PC\.gradle\caches\transforms-1\files-1.1\realm-android-library-object-server-6.1.0.aar\f4789dfb2fa7292e9f4a42c3caa0c33f\AndroidManifest.xml:10:22-76
